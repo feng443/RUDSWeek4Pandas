@@ -1,5 +1,7 @@
 ## Unit 4 | Assignment - Pandas, Pandas, Pandas
 
+**I've done both options**
+
 ## Option 1: Heroes of Pymoli
 
 * [HeroesOfPymoli/academy_of_py.ipynb](HeroesOfPymoli/heroes_of_pymoli.ipynb)
